@@ -1,54 +1,29 @@
 <!DOCTYPE HTML>
-<html manifest="" lang="en-US">
+<html manifest="" lang="nl-NL">
 <head>
     <meta charset="UTF-8">
-    <title>Kinder Gebaren</title>
+    <title>KinderGebarenLite</title>
     <style type="text/css">
-         /**
-         * Example of an initial loading indicator.
-         * It is recommended to keep this as minimal as possible to provide instant feedback
-         * while other resources are still being loaded for the first time
-         */
+
         html, body {
             height: 100%;
             background-color: #fff;
-        }
-
-       .testing123
-		{
-    		opacity: 0.5;
-        -moz-transition: opacity 1.5s;
-        -webkit-transition: opacity 1.5s;
-        -o-transition: opacity 1.5s;
-        transition: opacity 1.5s;
-		}
-		
-		h3 {
-			
+			background: url('resources/icons/768x1024.png');
+    		background-size: 100%;
+    		background-repeat:no-repeat;
+        }		
+		h3 {	
 			color: #8dd2d1 !important;
 		} 
-
 		#gebarencarousel {
-			background: url(resources/images/achtergrond.png);
+			background: url('resources/images/achtergrond.png');
     		background-size: 100%;
     		background-repeat:no-repeat;
     		background-color: #8dd2d1;
 		}
-		
-		.mijnachtergrond {
-			background-image:url('resources/images/achtergrond.png') !important;
-			background-repeat:no-repeat !important;
-			background-attachment:fixed;
-			background-position:right top !important;
-			background-size: cover !important;
-			background-color: #8dd2d1;
-			
-		}
-		
 		.tekstscreen {
 			background-color: #ffffff !important;
-			padding: 20px 0px 0 5px  !important;
-			
+			padding: 20px 0px 0 5px  !important;	
 		}
 		.videoplayknop {
 			background-color: #8dd2d1 !important;
@@ -56,124 +31,14 @@
 			height: 100% !important;
 		}
 		
-		.knopsound {
-			margin: 5px auto 5px auto; width:120px !important; background-color: #f64b8d !important;
-			background-image: none !important;
-			color: #fff !important;
-			position:fixed !important;
-			top: 90px !important;
-			right: 50px !important;
-		}
+.fade-in {-webkit-animation: fadein 2s; /* Safari and Chrome */}
+
+@-webkit-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
 		
-        #appLoadingIndicator {
-            position: absolute;
-            top: 50%;
-            margin-top: -15px;
-            text-align: center;
-            width: 100%;
-            height: 30px;
-            -webkit-animation-name: appLoadingIndicator;
-            -webkit-animation-duration: 0.5s;
-            -webkit-animation-iteration-count: infinite;
-            -webkit-animation-direction: linear;
-        }
-
-        #appLoadingIndicator > * {
-            background-color: #FFFFFF;
-            display: inline-block;
-            height: 30px;
-            -webkit-border-radius: 15px;
-            margin: 0 5px;
-            width: 30px;
-            opacity: 0.8;
-        }
-
-        @-webkit-keyframes appLoadingIndicator{
-            0% {
-                opacity: 0.8
-            }
-            50% {
-                opacity: 0
-            }
-            100% {
-                opacity: 0.8
-            }
-        }
-        
-
-        
-       @-webkit-keyframes rubberBand {
-  0% {
-    -webkit-transform: scale(1);
-    transform: scale(1);
-  }
-
-  30% {
-    -webkit-transform: scaleX(1.25) scaleY(0.75);
-    transform: scaleX(1.25) scaleY(0.75);
-  }
-
-  40% {
-    -webkit-transform: scaleX(0.75) scaleY(1.25);
-    transform: scaleX(0.75) scaleY(1.25);
-  }
-
-  60% {
-    -webkit-transform: scaleX(1.15) scaleY(0.85);
-    transform: scaleX(1.15) scaleY(0.85);
-  }
-
-  100% {
-    -webkit-transform: scale(1);
-    transform: scale(1);
-  }
-}
-
-@keyframes rubberBand {
-  0% {
-    -webkit-transform: scale(1);
-    -ms-transform: scale(1);
-    transform: scale(1);
-  }
-
-  30% {
-    -webkit-transform: scaleX(1.25) scaleY(0.75);
-    -ms-transform: scaleX(1.25) scaleY(0.75);
-    transform: scaleX(1.25) scaleY(0.75);
-  }
-
-  40% {
-    -webkit-transform: scaleX(0.75) scaleY(1.25);
-    -ms-transform: scaleX(0.75) scaleY(1.25);
-    transform: scaleX(0.75) scaleY(1.25);
-  }
-
-  60% {
-    -webkit-transform: scaleX(1.15) scaleY(0.85);
-    -ms-transform: scaleX(1.15) scaleY(0.85);
-    transform: scaleX(1.15) scaleY(0.85);
-  }
-
-  100% {
-    -webkit-transform: scale(1);
-    -ms-transform: scale(1);
-    transform: scale(1);
-  }
-}
-
-.rubberBand {
-  -webkit-animation-name: rubberBand;
-  animation-name: rubberBand;
-}
-
-.rubberBas {
-	
-position:relative;
-animation:rubberBand 1s ;
--webkit-animation:rubberBand 1s ; /* Safari and Chrome */
-}
-
-.thumbpie {width: 100px}
+.thumbpie {height: 100px}
  
         
     </style>
