@@ -66,7 +66,7 @@
     <icon src="resources/icons/icons-144@2x.png"         gap:platform="ios"        width="144" height="144" />
     <icon src="resources/icons/icons-152@2x.png"         gap:platform="ios"        width="152" height="152" />
     
-    
+<!--     
     <icon src="resources/icons/icons-64.png"          gap:platform="webos" />
     <icon src="res/icon/windows-phone/icon-48.png"  gap:platform="winphone" />
     <icon src="res/icon/windows-phone/icon-173.png" gap:platform="winphone"   gap:role="background" />
