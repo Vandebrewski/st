@@ -46,8 +46,7 @@
         },
          {
             "Id": 12,
-            "Name": "Geit",
-            "plaatje": "geit"
+           "plaatje": "geit"
         },
          {
             "Id": 13,
