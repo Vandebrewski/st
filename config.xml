@@ -3,7 +3,7 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "kindergebarenlite2"
+        id        = "com.basvanderwilk.kindergebarenlite"
         versionCode = "10"
         version   = "1.0.0">
 
@@ -30,7 +30,7 @@ permission on your app, which PhoneGap requires.
 <!-- Customize your app and platform with the preference element. -->
 <preference name="phonegap-version" value="3.5.0" /> <!-- all: current version of PhoneGap -->
 <preference name="orientation" value="portrait" /> <!-- all: default means both landscape and portrait are enabled -->
-<preference name="target-device" value="universal" /> <!-- all: possible values handset, tablet, or universal -->
+<preference name="target-device" value="tablet" /> <!-- all: possible values handset, tablet, or universal -->
 <preference name="fullscreen" value="true" /> <!-- all: hides the status bar at the top of the screen -->
 <preference name="webviewbounce" value="true" /> <!-- ios: control whether the screen 'bounces' when scrolled beyond the top -->
 <preference name="prerendered-icon" value="true" /> <!-- ios: if icon is prerendered, iOS will not apply it's gloss to the app's icon on the user's home screen -->
