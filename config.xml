@@ -49,7 +49,7 @@ permission on your app, which PhoneGap requires.
 <preference name="FadeSplashScreenDuration" value="0.5" />
 
 <!-- statusbar plugin en settings -->
-<gap:plugin name="org.apache.cordova.statusbar" version="0.1.4" />
+<!--<gap:plugin name="org.apache.cordova.statusbar" version="0.1.4" /> -->
 <preference name="StatusBarOverlaysWebView" value="true" />
 <preference name="StatusBarBackgroundColor" value="#65bcab" />
 <preference name="StatusBarStyle" value="lightcontent" />
