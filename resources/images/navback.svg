@@ -1,8 +1,7 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="684.839 0 614.572 1984.25" enable-background="new 684.839 0 614.572 1984.25"
 	 xml:space="preserve">
-<rect x="684.839" y="-18.437" fill="#D84C5F" width="614.572" height="1984.25"/>
-<rect x="684.839" y="-18.437" fill="#31938E" width="614.572" height="655.544"/>
-<rect x="684.839" y="637.107" fill="#45ADAA" width="614.572" height="645.301"/>
-<rect x="684.839" y="1282.408" fill="#55C2C2" width="614.572" height="348.258"/>
-<rect x="684.839" y="1630.666" fill="#75D3D1" width="614.572" height="335.151"/>
+<rect x="684" y="0" fill="#5e938a" width="614" height="650"/>
+<rect x="684" y="650" fill="#6ca89e" width="614" height="650"/>
+<rect x="684" y="1300" fill="#79bdb2" width="614" height="340"/>
+<rect x="684" y="1640" fill="#87d2c6" width="614" height="340"/>
 </svg>

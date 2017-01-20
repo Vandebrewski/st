@@ -5,5 +5,13 @@
 {"Id":4, "plaatje":"broek"},
 {"Id":5, "plaatje":"schoenen"},
 {"Id":6, "plaatje":"emmer"},
-{"Id":7, "plaatje":"aap"}
+{"Id":7, "plaatje":"aap"},
+{"Id":8, "plaatje":"handschoen"},
+{"Id":9, "plaatje":"pinguin"},
+{"Id":10, "plaatje":"panda"},
+{"Id":11, "plaatje":"narcis"},
+{"Id":12, "plaatje":"paddenstoel"},
+{"Id":13, "plaatje":"cadeau"},
+{"Id":14, "plaatje":"ballon"},
+{"Id":15, "plaatje":"dennenappel"}
 ]}
