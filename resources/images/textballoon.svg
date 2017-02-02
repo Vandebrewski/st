@@ -1,5 +1,34 @@
 <svg version="1.1" id="balloon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 768 430" enable-background="new 0 0 768 430" xml:space="preserve">
-<g id="wolk">
+
+<devs>
+	<style type="text/css">
+		
+		
+		#wolk {
+			-webkit-animation: Float 25s infinite linear forwards;
+		}
+		
+		
+		@keyframes zoomIn {
+		  from {
+		    opacity: 0;
+		  }		
+		  50% {
+		    opacity: 1;
+		  }
+		}
+		
+		@keyframes Float {
+		  from { transform: translateX(350%) translateZ(0); }
+		  to { transform: translateX(-150%) translateZ(0); }
+		}
+		
+
+
+	</style>
+
+</devs>
+<g id="wolk" opacity="0.5">
 	<g>
 		<path fill="#FFFFFF" d="M138.876,57.05c10.432-8.049,21.748-9.668,33.569-3.917c15.546,7.562,21.437,26.488,13.379,41.624
 			c-1.258,2.362-1.258,2.362,1.266,3.093c19.555,5.67,32.949,23.558,32.961,44.017c0.008,20.56-13.412,38.638-32.918,44.336
