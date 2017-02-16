@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="768px" height="430px" viewBox="0 0 768 430" enable-background="new 0 0 768 430" xml:space="preserve">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 768 430" enable-background="new 0 0 768 430" xml:space="preserve">
 <g>
 	<path fill="#D4AAFF" d="M148.277,193.143l-12.82-77.834l65.725,19.32l-52.901,58.517l0,0L148.277,193.143z"/>
 </g>
@@ -76,18 +72,11 @@
 <rect x="418.198" y="279.72" transform="matrix(1 0.0046 -0.0046 1 1.4319 -2.1192)" fill="#FF56AA" width="87.574" height="61.758"/>
 <rect x="492.179" y="279.89" transform="matrix(1 0.0046 -0.0046 1 1.4343 -2.2912)" opacity="0.5" fill="#D15E5E" width="13.592" height="61.757"/>
 <ellipse transform="matrix(0.0052 -1 1 0.0052 224.9224 778.1966)" fill="#FFFFFF" cx="503.573" cy="276.055" rx="1.23" ry="1.658"/>
-<path fill="#FFFFFF" d="M512.006,268.626c-0.915-0.003-1.659,0.544-1.662,1.223c-0.003,0.68,0.737,1.234,1.652,1.237"/>
 <ellipse transform="matrix(0.0044 -1 1 0.0044 212.7874 790.7802)" fill="#FFFFFF" cx="503.514" cy="288.531" rx="1.23" ry="1.655"/>
-<path fill="#FFFFFF" d="M511.949,281.102c-0.915-0.005-1.658,0.544-1.661,1.224c-0.003,0.678,0.734,1.231,1.649,1.236"/>
 <ellipse transform="matrix(0.0044 -1 1 0.0044 200.2563 803.1466)" fill="#FFFFFF" cx="503.458" cy="301.007" rx="1.231" ry="1.658"/>
-<path fill="#FFFFFF" d="M511.894,293.577c-0.915-0.005-1.66,0.544-1.663,1.224s0.735,1.231,1.65,1.236"/>
 <ellipse transform="matrix(0.0052 -1 1 0.0052 187.3252 815.2583)" fill="#FFFFFF" cx="503.401" cy="313.482" rx="1.23" ry="1.657"/>
-<path fill="#FFFFFF" d="M511.834,306.054c-0.915-0.004-1.658,0.543-1.66,1.223c-0.005,0.678,0.736,1.232,1.649,1.236"/>
 <ellipse transform="matrix(0.0044 -1 1 0.0044 175.1899 827.8716)" fill="#FFFFFF" cx="503.342" cy="325.958" rx="1.23" ry="1.655"/>
-<path fill="#FFFFFF" d="M511.776,318.528c-0.913-0.004-1.657,0.544-1.661,1.222c-0.002,0.68,0.737,1.234,1.652,1.239"/>
-<path fill="#FFFFFF" d="M511.664,343.479c-0.915-0.003-1.66,0.544-1.661,1.224c-0.005,0.68,0.734,1.233,1.648,1.236"/>
 <ellipse fill="#FFFFFF" cx="503.286" cy="338.434" rx="1.657" ry="1.23"/>
-<path fill="#FFFFFF" d="M511.721,331.003c-0.915-0.003-1.659,0.545-1.662,1.223c-0.003,0.68,0.736,1.234,1.649,1.239"/>
 <ellipse transform="matrix(0.0052 -1 1 0.0052 208.2836 761.3193)" fill="#FFFFFF" cx="486.771" cy="275.979" rx="1.23" ry="1.656"/>
 <ellipse fill="#FFFFFF" cx="495.2" cy="269.78" rx="1.657" ry="1.23"/>
 <ellipse fill="#FFFFFF" cx="486.713" cy="288.455" rx="1.656" ry="1.23"/>
@@ -98,7 +87,6 @@
 <ellipse fill="#FFFFFF" cx="495.028" cy="307.206" rx="1.655" ry="1.23"/>
 <ellipse transform="matrix(0.0044 -1 1 0.0044 158.5386 810.9951)" fill="#FFFFFF" cx="486.542" cy="325.881" rx="1.23" ry="1.655"/>
 <ellipse transform="matrix(0.0044 -1 1 0.0044 173.129 813.2515)" fill="#FFFFFF" cx="494.971" cy="319.682" rx="1.229" ry="1.658"/>
-<ellipse transform="matrix(0.0052 -1 1 0.0052 147.6754 837.7041)" fill="#FFFFFF" cx="494.857" cy="344.632" rx="1.23" ry="1.656"/>
 <ellipse transform="matrix(0.0044 -1 1 0.0044 146.0064 823.3585)" fill="#FFFFFF" cx="486.485" cy="338.356" rx="1.23" ry="1.658"/>
 <ellipse transform="matrix(0.0044 -1 1 0.0044 160.5988 825.6151)" fill="#FFFFFF" cx="494.914" cy="332.157" rx="1.23" ry="1.656"/>
 <ellipse transform="matrix(0.0048 -1 1 0.0048 191.8331 744.551)" fill="#FFFFFF" cx="469.97" cy="275.901" rx="1.23" ry="1.657"/>
@@ -111,7 +99,6 @@
 <ellipse transform="matrix(0.0044 -1 1 0.0044 169.011 784.0088)" fill="#FFFFFF" cx="478.226" cy="307.129" rx="1.23" ry="1.655"/>
 <ellipse transform="matrix(0.0044 -1 1 0.0044 141.8871 794.1157)" fill="#FFFFFF" cx="469.74" cy="325.804" rx="1.23" ry="1.655"/>
 <ellipse transform="matrix(0.0044 -1 1 0.0044 156.4804 796.3752)" fill="#FFFFFF" cx="478.17" cy="319.605" rx="1.23" ry="1.658"/>
-<ellipse transform="matrix(0.0048 -1 1 0.0048 131.2261 820.965)" fill="#FFFFFF" cx="478.056" cy="344.556" rx="1.23" ry="1.655"/>
 <ellipse transform="matrix(0.0044 -1 1 0.0044 129.3565 806.4822)" fill="#FFFFFF" cx="469.684" cy="338.28" rx="1.23" ry="1.657"/>
 <ellipse transform="matrix(0.0048 -1 1 0.0048 143.7589 808.6064)" fill="#FFFFFF" cx="478.113" cy="332.081" rx="1.23" ry="1.657"/>
 <ellipse transform="matrix(0.0052 -1 1 0.0052 175.0087 727.5637)" fill="#FFFFFF" cx="453.168" cy="275.825" rx="1.23" ry="1.656"/>
@@ -124,7 +111,6 @@
 <ellipse transform="matrix(0.0044 -1 1 0.0044 152.363 767.1323)" fill="#FFFFFF" cx="461.426" cy="307.051" rx="1.23" ry="1.656"/>
 <ellipse fill="#FFFFFF" cx="452.939" cy="325.727" rx="1.655" ry="1.23"/>
 <ellipse transform="matrix(0.0044 -1 1 0.0044 139.8307 779.4979)" fill="#FFFFFF" cx="461.369" cy="319.528" rx="1.231" ry="1.656"/>
-<ellipse transform="matrix(0.0056 -1 1 0.0056 114.2187 803.8113)" fill="#FFFFFF" cx="461.255" cy="344.478" rx="1.23" ry="1.656"/>
 <ellipse transform="matrix(0.0044 -1 1 0.0044 112.705 789.6027)" fill="#FFFFFF" cx="452.882" cy="338.202" rx="1.23" ry="1.656"/>
 <ellipse transform="matrix(0.0044 -1 1 0.0044 127.2979 791.8615)" fill="#FFFFFF" cx="461.311" cy="332.003" rx="1.231" ry="1.656"/>
 <ellipse transform="matrix(0.0052 -1 1 0.0052 158.3701 710.6852)" fill="#FFFFFF" cx="436.368" cy="275.748" rx="1.229" ry="1.656"/>
@@ -137,29 +123,20 @@
 <ellipse transform="matrix(0.0044 -1 1 0.0044 135.7117 750.2559)" fill="#FFFFFF" cx="444.625" cy="306.975" rx="1.23" ry="1.657"/>
 <ellipse fill="#FFFFFF" cx="436.138" cy="325.649" rx="1.656" ry="1.23"/>
 <ellipse transform="matrix(0.0044 -1 1 0.0044 123.1789 762.6193)" fill="#FFFFFF" cx="444.568" cy="319.451" rx="1.23" ry="1.657"/>
-<ellipse transform="matrix(0.0044 -1 1 0.0044 98.1142 787.3473)" fill="#FFFFFF" cx="444.454" cy="344.402" rx="1.23" ry="1.656"/>
 <ellipse transform="matrix(0.0044 -1 1 0.0044 96.055 772.7263)" fill="#FFFFFF" cx="436.082" cy="338.125" rx="1.23" ry="1.657"/>
 <ellipse transform="matrix(0.0048 -1 1 0.0048 110.4707 774.8507)" fill="#FFFFFF" cx="444.511" cy="331.926" rx="1.23" ry="1.657"/>
 <ellipse transform="matrix(0.0044 -1 1 0.0044 142.0669 694.0295)" fill="#FFFFFF" cx="419.567" cy="275.67" rx="1.23" ry="1.657"/>
 <ellipse transform="matrix(0.0044 -1 1 0.0044 156.658 696.286)" fill="#FFFFFF" cx="427.996" cy="269.471" rx="1.23" ry="1.658"/>
-<ellipse transform="matrix(0.0048 -1 1 0.0048 139.8435 679.3014)" fill="#FFFFFF" cx="411.194" cy="269.395" rx="1.23" ry="1.656"/>
 <ellipse transform="matrix(0.0044 -1 1 0.0044 129.5341 706.393)" fill="#FFFFFF" cx="419.509" cy="288.146" rx="1.23" ry="1.655"/>
 <ellipse transform="matrix(0.0052 -1 1 0.0052 143.7874 708.425)" fill="#FFFFFF" cx="427.939" cy="281.947" rx="1.23" ry="1.658"/>
-<ellipse transform="matrix(0.0052 -1 1 0.0052 127.1482 691.5466)" fill="#FFFFFF" cx="411.137" cy="281.87" rx="1.23" ry="1.657"/>
 <ellipse fill="#FFFFFF" cx="419.452" cy="300.622" rx="1.657" ry="1.23"/>
 <ellipse transform="matrix(0.0052 -1 1 0.0052 131.2544 720.7775)" fill="#FFFFFF" cx="427.881" cy="294.422" rx="1.23" ry="1.656"/>
-<ellipse transform="matrix(0.0052 -1 1 0.0052 114.6165 703.8992)" fill="#FFFFFF" cx="411.08" cy="294.345" rx="1.23" ry="1.656"/>
 <ellipse transform="matrix(0.0052 -1 1 0.0052 104.1376 730.8708)" fill="#FFFFFF" cx="419.395" cy="313.097" rx="1.23" ry="1.656"/>
 <ellipse transform="matrix(0.0044 -1 1 0.0044 119.059 733.3763)" fill="#FFFFFF" cx="427.824" cy="306.898" rx="1.229" ry="1.656"/>
-<ellipse transform="matrix(0.0044 -1 1 0.0044 102.4102 716.5)" fill="#FFFFFF" cx="411.023" cy="306.821" rx="1.23" ry="1.657"/>
 <ellipse transform="matrix(0.0044 -1 1 0.0044 91.9366 743.4844)" fill="#FFFFFF" cx="419.337" cy="325.573" rx="1.23" ry="1.656"/>
 <ellipse transform="matrix(0.0044 -1 1 0.0044 106.5267 745.7419)" fill="#FFFFFF" cx="427.766" cy="319.375" rx="1.23" ry="1.656"/>
-<ellipse fill="#FFFFFF" cx="410.966" cy="319.296" rx="1.657" ry="1.23"/>
-<ellipse transform="matrix(0.0048 -1 1 0.0048 81.2937 770.3315)" fill="#FFFFFF" cx="427.653" cy="344.325" rx="1.229" ry="1.657"/>
-<ellipse transform="matrix(0.0052 -1 1 0.0052 64.4888 753.3176)" fill="#FFFFFF" cx="410.852" cy="344.248" rx="1.23" ry="1.657"/>
 <ellipse fill="#FFFFFF" cx="419.281" cy="338.048" rx="1.657" ry="1.229"/>
 <ellipse transform="matrix(0.0052 -1 1 0.0052 93.6557 757.839)" fill="#FFFFFF" cx="427.709" cy="331.849" rx="1.229" ry="1.657"/>
-<ellipse transform="matrix(0.0048 -1 1 0.0048 77.1828 741.0962)" fill="#FFFFFF" cx="410.908" cy="331.772" rx="1.23" ry="1.655"/>
 <rect x="418.198" y="279.72" transform="matrix(1 0.0046 -0.0046 1 1.4319 -2.1192)" fill="none" width="87.574" height="61.758"/>
 <rect x="416.969" y="267.436" transform="matrix(1 0.0046 -0.0046 1 1.2554 -2.1096)" fill="#FF56AA" width="90.37" height="12.283"/>
 <rect x="490.002" y="267.603" transform="matrix(1 0.0045 -0.0045 1 1.2231 -2.2165)" opacity="0.5" fill="#D15E5E" width="17.336" height="12.284"/>
@@ -181,18 +158,11 @@
 <rect x="522.497" y="279.056" transform="matrix(1 0.0046 -0.0046 1 1.4299 -2.5984)" fill="#FF56AA" width="87.574" height="61.758"/>
 <rect x="596.477" y="279.226" transform="matrix(1 0.0046 -0.0046 1 1.4323 -2.7708)" opacity="0.5" fill="#D15E5E" width="13.592" height="61.757"/>
 <ellipse transform="matrix(0.0052 -1 1 0.0052 329.3471 881.8334)" fill="#FFFFFF" cx="607.872" cy="275.391" rx="1.23" ry="1.658"/>
-<path fill="#FFFFFF" d="M616.305,267.962c-0.915-0.003-1.659,0.544-1.662,1.223c-0.003,0.68,0.737,1.234,1.652,1.237"/>
 <ellipse transform="matrix(0.0044 -1 1 0.0044 317.2948 894.4168)" fill="#FFFFFF" cx="607.813" cy="287.867" rx="1.23" ry="1.655"/>
-<path fill="#FFFFFF" d="M616.248,280.438c-0.915-0.005-1.658,0.544-1.661,1.224c-0.003,0.678,0.734,1.231,1.649,1.236"/>
 <ellipse transform="matrix(0.0044 -1 1 0.0044 304.7641 906.7833)" fill="#FFFFFF" cx="607.756" cy="300.343" rx="1.231" ry="1.658"/>
-<path fill="#FFFFFF" d="M616.192,292.913c-0.915-0.005-1.66,0.544-1.663,1.224s0.735,1.231,1.65,1.236"/>
 <ellipse transform="matrix(0.0052 -1 1 0.0052 291.7498 918.8951)" fill="#FFFFFF" cx="607.7" cy="312.818" rx="1.23" ry="1.657"/>
-<path fill="#FFFFFF" d="M616.133,305.39c-0.915-0.004-1.658,0.543-1.66,1.223c-0.005,0.678,0.736,1.232,1.649,1.236"/>
 <ellipse transform="matrix(0.0044 -1 1 0.0044 279.6973 931.5083)" fill="#FFFFFF" cx="607.641" cy="325.293" rx="1.23" ry="1.655"/>
-<path fill="#FFFFFF" d="M616.075,317.864c-0.913-0.004-1.657,0.544-1.661,1.222c-0.002,0.68,0.737,1.234,1.652,1.239"/>
-<path fill="#FFFFFF" d="M615.963,342.814c-0.915-0.003-1.66,0.544-1.661,1.224c-0.005,0.68,0.734,1.233,1.648,1.236"/>
 <ellipse fill="#FFFFFF" cx="607.584" cy="337.77" rx="1.657" ry="1.23"/>
-<path fill="#FFFFFF" d="M616.02,330.339c-0.915-0.003-1.659,0.545-1.662,1.223c-0.003,0.68,0.736,1.234,1.649,1.239"/>
 <ellipse transform="matrix(0.0052 -1 1 0.0052 312.7082 864.9561)" fill="#FFFFFF" cx="591.07" cy="275.315" rx="1.23" ry="1.656"/>
 <ellipse fill="#FFFFFF" cx="599.499" cy="269.116" rx="1.657" ry="1.23"/>
 <ellipse fill="#FFFFFF" cx="591.012" cy="287.791" rx="1.656" ry="1.23"/>
@@ -203,7 +173,6 @@
 <ellipse fill="#FFFFFF" cx="599.327" cy="306.542" rx="1.655" ry="1.23"/>
 <ellipse transform="matrix(0.0044 -1 1 0.0044 263.0461 914.6318)" fill="#FFFFFF" cx="590.84" cy="325.217" rx="1.23" ry="1.655"/>
 <ellipse transform="matrix(0.0044 -1 1 0.0044 277.636 916.8881)" fill="#FFFFFF" cx="599.27" cy="319.018" rx="1.229" ry="1.658"/>
-<ellipse transform="matrix(0.0052 -1 1 0.0052 252.1 941.3409)" fill="#FFFFFF" cx="599.156" cy="343.968" rx="1.23" ry="1.656"/>
 <ellipse transform="matrix(0.0044 -1 1 0.0044 250.5137 926.9952)" fill="#FFFFFF" cx="590.784" cy="337.692" rx="1.23" ry="1.658"/>
 <ellipse transform="matrix(0.0044 -1 1 0.0044 265.1063 929.2518)" fill="#FFFFFF" cx="599.212" cy="331.493" rx="1.23" ry="1.656"/>
 <ellipse transform="matrix(0.0048 -1 1 0.0048 296.2992 848.1877)" fill="#FFFFFF" cx="574.269" cy="275.237" rx="1.23" ry="1.657"/>
@@ -216,7 +185,6 @@
 <ellipse transform="matrix(0.0044 -1 1 0.0044 273.5182 887.6454)" fill="#FFFFFF" cx="582.525" cy="306.465" rx="1.23" ry="1.655"/>
 <ellipse transform="matrix(0.0044 -1 1 0.0044 246.3943 897.7524)" fill="#FFFFFF" cx="574.039" cy="325.14" rx="1.23" ry="1.655"/>
 <ellipse transform="matrix(0.0044 -1 1 0.0044 260.9878 900.0118)" fill="#FFFFFF" cx="582.469" cy="318.941" rx="1.23" ry="1.658"/>
-<ellipse transform="matrix(0.0048 -1 1 0.0048 235.6921 924.6017)" fill="#FFFFFF" cx="582.354" cy="343.892" rx="1.23" ry="1.655"/>
 <ellipse transform="matrix(0.0044 -1 1 0.0044 233.864 910.1188)" fill="#FFFFFF" cx="573.983" cy="337.616" rx="1.23" ry="1.657"/>
 <ellipse transform="matrix(0.0048 -1 1 0.0048 248.2249 912.2432)" fill="#FFFFFF" cx="582.412" cy="331.417" rx="1.23" ry="1.657"/>
 <ellipse transform="matrix(0.0052 -1 1 0.0052 279.4333 831.2005)" fill="#FFFFFF" cx="557.467" cy="275.161" rx="1.23" ry="1.656"/>
@@ -229,7 +197,6 @@
 <ellipse transform="matrix(0.0044 -1 1 0.0044 256.8704 870.769)" fill="#FFFFFF" cx="565.725" cy="306.387" rx="1.23" ry="1.656"/>
 <ellipse fill="#FFFFFF" cx="557.238" cy="325.063" rx="1.655" ry="1.23"/>
 <ellipse transform="matrix(0.0044 -1 1 0.0044 244.3386 883.1346)" fill="#FFFFFF" cx="565.667" cy="318.864" rx="1.231" ry="1.656"/>
-<ellipse transform="matrix(0.0056 -1 1 0.0056 218.6019 907.4481)" fill="#FFFFFF" cx="565.554" cy="343.814" rx="1.23" ry="1.656"/>
 <ellipse transform="matrix(0.0044 -1 1 0.0044 217.2122 893.2394)" fill="#FFFFFF" cx="557.181" cy="337.538" rx="1.23" ry="1.656"/>
 <ellipse transform="matrix(0.0044 -1 1 0.0044 231.8057 895.4981)" fill="#FFFFFF" cx="565.61" cy="331.339" rx="1.231" ry="1.656"/>
 <ellipse transform="matrix(0.0052 -1 1 0.0052 262.7943 814.322)" fill="#FFFFFF" cx="540.667" cy="275.083" rx="1.229" ry="1.656"/>
@@ -242,29 +209,20 @@
 <ellipse transform="matrix(0.0044 -1 1 0.0044 240.2191 853.8925)" fill="#FFFFFF" cx="548.924" cy="306.311" rx="1.23" ry="1.657"/>
 <ellipse fill="#FFFFFF" cx="540.437" cy="324.985" rx="1.656" ry="1.23"/>
 <ellipse transform="matrix(0.0044 -1 1 0.0044 227.6863 866.256)" fill="#FFFFFF" cx="548.867" cy="318.787" rx="1.23" ry="1.657"/>
-<ellipse transform="matrix(0.0044 -1 1 0.0044 202.6216 890.9839)" fill="#FFFFFF" cx="548.752" cy="343.738" rx="1.23" ry="1.656"/>
 <ellipse transform="matrix(0.0044 -1 1 0.0044 200.5624 876.363)" fill="#FFFFFF" cx="540.38" cy="337.461" rx="1.23" ry="1.657"/>
 <ellipse transform="matrix(0.0048 -1 1 0.0048 214.9367 878.4875)" fill="#FFFFFF" cx="548.81" cy="331.262" rx="1.23" ry="1.657"/>
 <ellipse transform="matrix(0.0044 -1 1 0.0044 246.5744 797.6661)" fill="#FFFFFF" cx="523.866" cy="275.006" rx="1.23" ry="1.657"/>
 <ellipse transform="matrix(0.0044 -1 1 0.0044 261.1654 799.9227)" fill="#FFFFFF" cx="532.294" cy="268.807" rx="1.23" ry="1.658"/>
-<ellipse transform="matrix(0.0048 -1 1 0.0048 244.3096 782.9381)" fill="#FFFFFF" cx="515.493" cy="268.731" rx="1.23" ry="1.656"/>
 <ellipse transform="matrix(0.0044 -1 1 0.0044 234.0415 810.0297)" fill="#FFFFFF" cx="523.808" cy="287.482" rx="1.23" ry="1.655"/>
 <ellipse transform="matrix(0.0052 -1 1 0.0052 248.2121 812.0618)" fill="#FFFFFF" cx="532.238" cy="281.283" rx="1.23" ry="1.658"/>
-<ellipse transform="matrix(0.0052 -1 1 0.0052 231.5727 795.1834)" fill="#FFFFFF" cx="515.436" cy="281.206" rx="1.23" ry="1.657"/>
 <ellipse fill="#FFFFFF" cx="523.751" cy="299.958" rx="1.657" ry="1.23"/>
 <ellipse transform="matrix(0.0052 -1 1 0.0052 235.6788 824.4143)" fill="#FFFFFF" cx="532.18" cy="293.758" rx="1.23" ry="1.656"/>
-<ellipse transform="matrix(0.0052 -1 1 0.0052 219.0409 807.5359)" fill="#FFFFFF" cx="515.378" cy="293.681" rx="1.23" ry="1.656"/>
 <ellipse transform="matrix(0.0052 -1 1 0.0052 208.5623 834.5076)" fill="#FFFFFF" cx="523.694" cy="312.433" rx="1.23" ry="1.656"/>
 <ellipse transform="matrix(0.0044 -1 1 0.0044 223.5661 837.0131)" fill="#FFFFFF" cx="532.123" cy="306.234" rx="1.229" ry="1.656"/>
-<ellipse transform="matrix(0.0044 -1 1 0.0044 206.9177 820.1367)" fill="#FFFFFF" cx="515.322" cy="306.157" rx="1.23" ry="1.657"/>
 <ellipse transform="matrix(0.0044 -1 1 0.0044 196.444 847.1211)" fill="#FFFFFF" cx="523.636" cy="324.909" rx="1.23" ry="1.656"/>
 <ellipse transform="matrix(0.0044 -1 1 0.0044 211.0341 849.3786)" fill="#FFFFFF" cx="532.065" cy="318.71" rx="1.23" ry="1.656"/>
-<ellipse fill="#FFFFFF" cx="515.265" cy="318.632" rx="1.657" ry="1.23"/>
-<ellipse transform="matrix(0.0048 -1 1 0.0048 185.7593 873.9684)" fill="#FFFFFF" cx="531.952" cy="343.661" rx="1.229" ry="1.657"/>
-<ellipse transform="matrix(0.0052 -1 1 0.0052 168.9134 856.9544)" fill="#FFFFFF" cx="515.151" cy="343.583" rx="1.23" ry="1.657"/>
 <ellipse fill="#FFFFFF" cx="523.58" cy="337.384" rx="1.657" ry="1.229"/>
 <ellipse transform="matrix(0.0052 -1 1 0.0052 198.08 861.4758)" fill="#FFFFFF" cx="532.008" cy="331.185" rx="1.229" ry="1.657"/>
-<ellipse transform="matrix(0.0048 -1 1 0.0048 181.649 844.7328)" fill="#FFFFFF" cx="515.207" cy="331.108" rx="1.23" ry="1.655"/>
 <rect x="522.497" y="279.056" transform="matrix(1 0.0046 -0.0046 1 1.4299 -2.5984)" fill="none" width="87.574" height="61.758"/>
 <rect x="521.268" y="266.772" transform="matrix(1 0.0046 -0.0046 1 1.2534 -2.5865)" fill="#FF56AA" width="90.37" height="12.283"/>
 <rect x="594.301" y="266.939" transform="matrix(1 0.0045 -0.0045 1 1.2213 -2.6806)" opacity="0.5" fill="#D15E5E" width="17.336" height="12.284"/>
