@@ -1,6 +1,6 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 768 1024" enable-background="new 0 0 768 1024" xml:space="preserve">
 <g id="Layer_2">
-	<rect y="0" fill="#FFFFFF" width="768" height="1024"/>
+	<rect x="-7" y="0" fill="#FFFFFF" width="782" height="1024"/>
 </g>
 <g id="Layer_1">
 	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="384" y1="315" x2="384" y2="0">
@@ -30,6 +30,6 @@
 		<stop  offset="0.9745" style="stop-color:#399DDE"/>
 		<stop  offset="1" style="stop-color:#1E8FD9"/>
 	</linearGradient>
-	<rect fill="url(#SVGID_2_)" width="768" height="331"/>
+	<rect x="-7" fill="url(#SVGID_2_)" width="782" height="331"/>
 </g>
 </svg>
