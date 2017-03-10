@@ -48,5 +48,13 @@
 {"Id":51, "plaatje":"zwaan", "cat":"Dieren"},
 {"Id":52, "plaatje":"kip", "cat":"Dieren"},
 {"Id":53, "plaatje":"vogel", "cat":"Dieren"},
-{"Id":54, "plaatje":"konijn", "cat":"Dieren"}
+{"Id":54, "plaatje":"konijn", "cat":"Dieren"},
+{"Id":55, "plaatje":"bang", "cat":"Emoties"},
+{"Id":56, "plaatje":"blij", "cat":"Emoties"},
+{"Id":57, "plaatje":"boos", "cat":"Emoties"},
+{"Id":58, "plaatje":"jaloers", "cat":"Emoties"},
+{"Id":59, "plaatje":"lief", "cat":"Emoties"},
+{"Id":60, "plaatje":"schamen", "cat":"Emoties"},
+{"Id":61, "plaatje":"verlegen", "cat":"Emoties"},
+{"Id":62, "plaatje":"zenuwachtig", "cat":"Emoties"}
 ]}
