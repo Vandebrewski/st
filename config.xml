@@ -21,7 +21,7 @@
 	<gap:platform name="android" />
 
 	
-<plugin name="com.moust.cordova.videoplayer" spec="1.0.0" source="pgb" />
+<plugin spec=“https://github.com/Vandebrewski/cordova-plugin-videoplayer” source=“git” />
  
 <!--
 If you do not want any permissions to be added to your app, add the
