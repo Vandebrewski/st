@@ -22,7 +22,7 @@
 
 <plugin spec="https://github.com/moust/cordova-plugin-videoplayer.git " source="git" />	
 <plugin spec="https://github.com/413326885/org.apache.cordova.file " source="git" />
-<plugin spec="git://git.apache.org/cordova-plugin-media.git " source="git" />
+<plugin spec="cordova-plugin-media" source="npm" />
  
 <!--
 If you do not want any permissions to be added to your app, add the
