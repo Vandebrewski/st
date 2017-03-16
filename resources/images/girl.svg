@@ -7,9 +7,9 @@
 		#right_hand  {-webkit-animation: rotateInDownLeft 1.2s linear forwards;}
 
 		
-		@keyframes zoomIn {from {opacity: 0;}		
+		@-webkit-keyframes zoomIn {from {opacity: 0;}		
 		  50% {opacity: 1;}}
-		@keyframes rotateInDownRight {
+		@-webkit-keyframes rotateInDownRight {
 		  from {
 		    transform-origin: right bottom;
 		    transform: rotate3d(0, 0, 1, 20deg);}
@@ -22,7 +22,7 @@
 		  to {
 		    transform-origin: right bottom;
 		    transform: none;}}
-		@keyframes rotateInDownLeft {
+		@-webkit-keyframes rotateInDownLeft {
 		  from {
 		    transform-origin: left bottom;
 		    transform: rotate3d(0, 0, 1, -20deg);}
