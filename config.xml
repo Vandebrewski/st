@@ -29,9 +29,6 @@
 <plugin name="cordova-plugin-device" source="npm" />
 <plugin name="cordova-plugin-file-transfer" source="npm"/>
 
-<plugin name="cordova-plugin-crosswalk-webview" source="npm" /> 
-<plugin name="cordova-build-architecture" spec="https://github.com/MBuchalik/cordova-build-architecture.git#v1.0.1" source="git" />
-<preference name="buildArchitecture" value="x86" />
 <!--
 If you do not want any permissions to be added to your app, add the
 following tag to your config.xml; you will still have the INTERNET
