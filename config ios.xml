@@ -3,7 +3,6 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "com.basvanderwilk.kindergebarenlite"
         versionCode = "10"
         version   = "1.2.0">
@@ -18,13 +17,13 @@
        New-impulse media
     </author>
 
+	<gap:platform name="ios" />
 	<gap:platform name="android" />
 
 <!-->
 <plugin spec="https://github.com/moust/cordova-plugin-videoplayer.git " source="git" />	
 <plugin spec="https://github.com/apache/cordova-plugin-file " source="git" /> 
 -->
-<plugin name="cordova-plugin-file" source="npm"/>
 <plugin name="cordova-plugin-media" source="npm" />
 <plugin name="cordova-plugin-device" source="npm" />
 
