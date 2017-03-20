@@ -1,36 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.basvanderwilk.kindergebarenlite"
         versionCode = "10"
         version   = "1.2.0">
-
     <name>KinderGebaren</name>
-
     <description>
        Gebarentaal voor kinderen. Babygebaren en NGT.
     </description>
-
     <author href="http://new-impulse.com" email="info@new-impulse.com">
        New-impulse media
     </author>
-
 	<gap:platform name="ios" />
 
-
-	
- 
 <!--
-If you do not want any permissions to be added to your app, add the
-following tag to your config.xml; you will still have the INTERNET
-permission on your app, which PhoneGap requires.
+If you do not want any permissions to be added to your app, add the following tag to your config.xml; you will still have the INTERNET permission on your app, which PhoneGap requires.
 -->
 
 <preference name='phonegap-version' value='cli-6.5.0' />
 
-<preference name="deployment-target" value="7.1" />
+<preference name="deployment-target" value="9.0" />
 
 <preference name="orientation" value="portrait" /> <!-- all: default means both landscape and portrait are enabled -->
 <preference name="target-device" value="universal" /> <!-- all: possible values handset, tablet, or universal -->
