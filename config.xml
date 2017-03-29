@@ -24,6 +24,8 @@
 android:hardwareAccelerated="true" /> </gap:config-file>	
 
 <preference name="android-targetSdkVersion" value="19" />
+ <preference name="permissions" value="none"/>
+<feature name="http://api.phonegap.com/1.0/network"/>
 
 <!-->
 <plugin spec="https://github.com/moust/cordova-plugin-videoplayer.git " source="git" />	
