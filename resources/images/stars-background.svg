@@ -1,8 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1984.25 1984.25">
-<devs><style type="text/css">		
-#lucht {-webkit-animation: zoomIn 1s linear forwards;}		
-#wolk {-webkit-animation: Float 10s linear forwards;}@-webkit-keyframes zoomIn {from {opacity: 0;}		50% {opacity: 1;}}@-webkit-keyframes Float {from { transform: translateX(350%) translateZ(0);}to { transform: translateX(-150%) translateZ(0);}}
-</style></devs><g id="lucht">
+
+
+<g id="lucht">
 	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="992.1255" y1="493.395" x2="992.1255" y2="0">
 		<stop  offset="0" style="stop-color:#FFFFFF"/>
 		<stop  offset="1" style="stop-color:#33CBEF"/>
