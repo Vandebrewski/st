@@ -1,11 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1984 1984" width="800" height="800"><devs><style type="text/css">
 
-#iconKinderGebaren {-webkit-animation: zoomIn 2s linear forwards;}
-#left_hand {-webkit-animation: rotateInDownRight .7s 2 forwards;animation-delay: 1s;}
-#right_hand  {-webkit-animation: rotateInDownLeft .7s 2 forwards;animation-delay: 1s;}
+#iconKinderGebaren {-webkit-animation: zoomIn 2s linear forwards; animation: zoomIn 2s linear forwards;}
+#left_hand {-webkit-animation: rotateInDownRight .7s 2 forwards;animation-delay: 1s; animation: rotateInDownRight .7s 2 forwards;animation-delay: 1s;}
+#right_hand  {-webkit-animation: rotateInDownLeft .7s 2 forwards;animation-delay: 1s;animation: rotateInDownLeft .7s 2 forwards;animation-delay: 1s;}
 
 @-webkit-keyframes zoomIn {from {opacity: 0;}50% {opacity: 1;}}
 @-webkit-keyframes rotateInDownRight {from {transform-origin: right bottom;transform: none;}50% {transform-origin: right bottom;transform: rotate3d(0, 0, 1, 20deg);}to {transform-origin: right bottom;transform: none;}}@-webkit-keyframes rotateInDownLeft {from {transform-origin: left bottom;transform: none;}50% {
+transform-origin: left bottom;transform: rotate3d(0, 0, 1, -20deg);}to {transform-origin: left bottom;transform: none;}}
+
+@keyframes zoomIn {from {opacity: 0;}50% {opacity: 1;}}
+@keyframes rotateInDownRight {from {transform-origin: right bottom;transform: none;}50% {transform-origin: right bottom;transform: rotate3d(0, 0, 1, 20deg);}to {transform-origin: right bottom;transform: none;}}@keyframes rotateInDownLeft {from {transform-origin: left bottom;transform: none;}50% {
 transform-origin: left bottom;transform: rotate3d(0, 0, 1, -20deg);}to {transform-origin: left bottom;transform: none;}}
 
 
