@@ -19,6 +19,11 @@
     </author>
 
 	<gap:platform name="android" />
+	
+<gap:config-file platform="android" parent="/manifest"> <application
+android:hardwareAccelerated="true" /> </gap:config-file>	
+
+<preference name="android-targetSdkVersion" value="19" />
 
 <!-->
 <plugin spec="https://github.com/moust/cordova-plugin-videoplayer.git " source="git" />	
