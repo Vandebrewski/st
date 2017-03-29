@@ -20,11 +20,11 @@
 
 	<gap:platform name="android" />
 	
+	
+	
 <gap:config-file platform="android" parent="/manifest"> <application
-android:hardwareAccelerated="true" /> </gap:config-file>	
+android:hardwareAccelerated="true" /> </gap:config-file>
 
-<preference name="android-targetSdkVersion" value="19" />
- <preference name="permissions" value="none"/>
 <feature name="http://api.phonegap.com/1.0/network"/>
 
 <!-->
@@ -33,6 +33,8 @@ android:hardwareAccelerated="true" /> </gap:config-file>
 -->
 
 <plugin name="cordova-plugin-media" source="npm" />
+<plugin name="cordova-plugin-device" source="npm"/>
+<plugin name="cordova-plugin-file" source="npm"/>
 <!-->
 <plugin name="cordova-plugin-file" source="npm"/>
 <plugin name="cordova-plugin-device" source="npm" />
