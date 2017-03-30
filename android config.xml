@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
+<widget xmlns     = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        xmlns:android = "http://schemas.android.com/apk/res/android"
+        id        = "com.basvanderwilk.kindergebarenlite"
+        versionCode = "10"
+        version   = "1.2.0">
+
+    <name>KinderGebaren</name>
+
+    <description>
+       Gebarentaal voor kinderen. Babygebaren en NGT.
+    </description>
+
+    <author href="http://new-impulse.com" email="info@new-impulse.com">
+       New-impulse media
+    </author>
+
+	<gap:platform name="android" />
+	
+	
+	
+<gap:config-file platform="android" parent="/manifest"> <application
+android:hardwareAccelerated="true" /> </gap:config-file>
+
+<feature name="http://api.phonegap.com/1.0/network"/>
+
+<!-->
+<plugin spec="https://github.com/moust/cordova-plugin-videoplayer.git " source="git" />	
+<plugin spec="https://github.com/apache/cordova-plugin-file " source="git" /> 
+-->
+
+<plugin name="cordova-plugin-media" source="npm" />
+<plugin name="cordova-plugin-device" source="npm"/>
+<plugin name="cordova-plugin-file" source="npm"/>
+<!-->
+<plugin name="cordova-plugin-file" source="npm"/>
+<plugin name="cordova-plugin-device" source="npm" />
+<plugin name="cordova-plugin-file-transfer" source="npm"/>
+-->
+
+<!--
+If you do not want any permissions to be added to your app, add the
+following tag to your config.xml; you will still have the INTERNET
+permission on your app, which PhoneGap requires.
+-->
+
+<preference name='phonegap-version' value='cli-6.5.0' />
+
+
+
+<preference name="orientation" value="portrait" /> <!-- all: default means both landscape and portrait are enabled -->
+<preference name="target-device" value="universal" /> <!-- all: possible values handset, tablet, or universal -->
+<preference name="fullscreen" value="true" /> <!-- all: hides the status bar at the top of the screen -->
+
+
+
+
+
+<preference name="AllowInlineMediaPlayback" value="true" />
+
+
+<!-- ios: if set to false, the splash screen must be hidden using a JavaScript API -->
+<!-- <gap:plugin name="org.apache.cordova.splashscreen" /> -->
+<preference name="auto-hide-splash-screen" value="false" />
+<preference name="FadeSplashScreen" value="true" />  
+<preference name="FadeSplashScreenDuration" value="0.5" />
+
+<!-- statusbar plugin en settings -->
+<!--<gap:plugin name="org.apache.cordova.statusbar" version="0.1.4" /> -->
+<preference name="StatusBarOverlaysWebView" value="true" />
+<preference name="StatusBarBackgroundColor" value="#65bcab" />
+<preference name="StatusBarStyle" value="lightcontent" />
+
+
+
+
+    <access origin="*"/> <!-- allow local pages -->
+</widget>
