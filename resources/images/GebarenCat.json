@@ -1,0 +1,39 @@
+{
+    "Gebaartje": [
+        {
+            "Id": 1,
+            "cat": "Dieren",
+            "plaatje": "catdieren"
+        },
+        {
+            "Id": 2,
+            "cat": "Ik en Omgeving",
+            "plaatje": "catikenomgeving"
+        },
+        {
+            "Id": 3,
+            "cat": "Leuk",
+            "plaatje": "catleuk"
+        },
+        {
+            "Id": 4,
+            "cat": "Seizoenen",
+            "plaatje": "catseizoenen"
+        },
+        {
+            "Id": 5,
+            "cat": "Emoties",
+            "plaatje": "catemoties"
+        },
+        {
+            "Id": 6,
+            "cat": "Voeding",
+            "plaatje": "catvoeding"
+        },
+        {
+            "Id": 7,
+            "cat": "Tijd",
+            "plaatje": "cattijd"
+        }
+    ]
+}
