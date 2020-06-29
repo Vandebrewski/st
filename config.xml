@@ -22,7 +22,7 @@
 If you do not want any permissions to be added to your app, add the following tag to your config.xml; you will still have the INTERNET permission on your app, which PhoneGap requires.
 -->
 
-<preference name='phonegap-version' value='cli-9.0.0' />
+<preference name='phonegap-version' value='cli-6.5.0' />
 
 <preference name="deployment-target" value="9.0" />
 
@@ -51,12 +51,14 @@ If you do not want any permissions to be added to your app, add the following ta
 
 <!-- onderstaande regel extra toegevoegd -->         
 <plugin name="cordova-plugin-statusbar" source="npm" spec="2.4.2" />
+    <platform name="ios">
 <preference name="StatusBarOverlaysWebView" value="true" />
 <preference name="StatusBarBackgroundColor" value="#65bcab" />
 <preference name="StatusBarStyle" value="lightcontent" />
 <!-- onderstaande regel extra toegevoegd --> 
 <preference name="StatusBarDefaultScrollToTop" value="false" />
-
+    </platform>
+        
 	<!-- iOS7+ -->
 	<!-- iPhone 6 / 6+ -->
 	<icon src="resources/icons/icons-180.png" gap:platform="ios" width="180" height="180" />
