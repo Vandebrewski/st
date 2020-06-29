@@ -52,7 +52,7 @@ If you do not want any permissions to be added to your app, add the following ta
 <!-- onderstaande regel extra toegevoegd -->         
 <plugin name="cordova-plugin-statusbar" source="npm" spec="2.4.2" />
     <platform name="ios">
-<preference name="StatusBarOverlaysWebView" value="true" />
+<preference name="StatusBarOverlaysWebView" value="false" />
 <preference name="StatusBarBackgroundColor" value="#65bcab" />
 <preference name="StatusBarStyle" value="lightcontent" />
 <!-- onderstaande regel extra toegevoegd --> 
