@@ -14,9 +14,10 @@
     </author>
 	<platform name="ios" />
     
-<!-- onderstaande regel extra toegevoegd -->    
+<!-- onderstaande regel extra toegevoegd     
     <meta name="viewport" content="initial-scale=1, width=device-width, viewport-fit=cover">
-
+-->
+    
 <!--
 If you do not want any permissions to be added to your app, add the following tag to your config.xml; you will still have the INTERNET permission on your app, which PhoneGap requires.
 -->
