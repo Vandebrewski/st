@@ -4,7 +4,7 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.basvanderwilk.kindergebarenlite"
         versionCode = "10"
-        version   = "1.2.0">
+        version   = "1.3.0">
     <name>KinderGebaren</name>
     <description>
        Gebarentaal voor kinderen. Babygebaren en NGT.
@@ -13,6 +13,9 @@
        New-impulse media
     </author>
 	<platform name="ios" />
+    
+<!-- onderstaande regel extra toegevoegd -->    
+    <meta name="viewport" content="initial-scale=1, width=device-width, viewport-fit=cover">
 
 <!--
 If you do not want any permissions to be added to your app, add the following tag to your config.xml; you will still have the INTERNET permission on your app, which PhoneGap requires.
@@ -44,9 +47,14 @@ If you do not want any permissions to be added to your app, add the following ta
 
 <!-- statusbar plugin en settings -->
 <!--<gap:plugin name="org.apache.cordova.statusbar" version="0.1.4" /> -->
+
+<!-- onderstaande regel extra toegevoegd -->         
+<plugin name="cordova-plugin-statusbar" source="npm" spec="2.4.2" />
 <preference name="StatusBarOverlaysWebView" value="true" />
 <preference name="StatusBarBackgroundColor" value="#65bcab" />
 <preference name="StatusBarStyle" value="lightcontent" />
+<!-- onderstaande regel extra toegevoegd --> 
+<preference name="StatusBarDefaultScrollToTop" value="false" />
 
 	<!-- iOS7+ -->
 	<!-- iPhone 6 / 6+ -->
