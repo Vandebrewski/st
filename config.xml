@@ -51,13 +51,12 @@ If you do not want any permissions to be added to your app, add the following ta
 
 <!-- onderstaande regel extra toegevoegd -->         
 <plugin name="cordova-plugin-statusbar" source="npm" spec="2.4.3" />
-    <platform name="ios">
 <preference name="StatusBarOverlaysWebView" value="false" />
 <preference name="StatusBarBackgroundColor" value="red" />
 <preference name="StatusBarStyle" value="blackopaque" />
 <!-- onderstaande regel extra toegevoegd --> 
 <preference name="StatusBarDefaultScrollToTop" value="false" />
-    </platform>
+
         
 	<!-- iOS7+ -->
 	<!-- iPhone 6 / 6+ -->
