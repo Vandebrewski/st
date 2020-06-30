@@ -10,8 +10,7 @@
     function onDeviceReady() {
         alert("Calling onDeviceReady()");
         StatusBar.overlaysWebView(false);
-        StatusBar.styleLightContent();
-        
+            StatusBar.backgroundColorByName("red");
     }
     setTimeout (function() {
         document.addEventListener ('deviceready', onDeviceReady, false);
