@@ -28,16 +28,27 @@ B("apple-mobile-web-app-capable","yes");B("apple-touch-fullscreen","yes");c?(b=n
    -->
 
 
-    <!-- PUT THIS CODE UNDER THE MICROLOADER -->
+    <!-- PUT THIS CODE UNDER THE MICROLOADER 
 	<script type="text/javascript" charset="utf-8">
         document.addEventListener('deviceready', function() {
             setTimeout(function() {
               navigator.splashscreen.hide();
            }, 50);
-            StatusBar.overlayWebView(false);
-            StatusBar.hide();
+           
+           
         });
 </script>
+-->
+    
+ <script type="text/javascript" charset="utf-8"> 
+     
+     document.addEventListener ("deviceready", onDeviceReady, false);
+        function onDeviceReady() {
+            StatusBar.overlaysWebView(false);
+            StatusBar.hide();
+        }
+    </script>
+    
 </head>
 <body>
 </body>
