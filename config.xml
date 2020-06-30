@@ -14,13 +14,6 @@
     </author>
 	<platform name="ios" />
     
-<!-- onderstaande regel extra toegevoegd     
-    <meta name="viewport" content="initial-scale=1, width=device-width, viewport-fit=cover">
--->
-    
-<!--
-If you do not want any permissions to be added to your app, add the following tag to your config.xml; you will still have the INTERNET permission on your app, which PhoneGap requires.
--->
 
 <preference name='phonegap-version' value='cli-6.5.0' />
 
@@ -51,7 +44,7 @@ If you do not want any permissions to be added to your app, add the following ta
 
 <!-- onderstaande regel extra toegevoegd -->         
 <plugin name="cordova-plugin-statusbar" />
-<preference name="StatusBarOverlaysWebView" value="false" />
+<preference name="StatusBarOverlaysWebView" value="true" />
 <preference name="StatusBarBackgroundColor" value="#ff000" />
 <preference name="StatusBarStyle" value="lightcontent" />
 <!-- onderstaande regel extra toegevoegd  
