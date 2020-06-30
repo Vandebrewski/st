@@ -11,11 +11,10 @@
         alert("Calling onDeviceReady()");
         StatusBar.overlaysWebView(false);
             StatusBar.backgroundColorByName("red");
-            StatusBar.hide();
     }
     setTimeout (function() {
         document.addEventListener ('deviceready', onDeviceReady, false);
-    }, 9000)
+    }, 50)
     </script> 
     <script type="text/javascript" src="touch/sencha-touch.js"></script>
     <script type="text/javascript" src="app.js"></script>
