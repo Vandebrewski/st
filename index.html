@@ -44,7 +44,7 @@ B("apple-mobile-web-app-capable","yes");B("apple-touch-fullscreen","yes");c?(b=n
      
      document.addEventListener ("deviceready", onDeviceReady, false);
         function onDeviceReady() {
-            console.log(StatusBar);
+            window.alert(StatusBar);
             StatusBar.overlaysWebView(false);
             StatusBar.backgroundColorByName("red");
             StatusBar.hide();
