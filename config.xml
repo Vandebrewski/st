@@ -50,7 +50,7 @@ If you do not want any permissions to be added to your app, add the following ta
 <!--<gap:plugin name="org.apache.cordova.statusbar" version="0.1.4" /> -->
 
 <!-- onderstaande regel extra toegevoegd -->         
-<plugin name="cordova-plugin-statusbar" source="npm" spec="2.4.3" />
+<gap:plugin name="cordova-plugin-statusbar" source="npm" />
 <preference name="StatusBarOverlaysWebView" value="false" />
 <preference name="StatusBarBackgroundColor" value="red" />
 <preference name="StatusBarStyle" value="blackopaque" />
