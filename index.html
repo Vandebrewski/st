@@ -8,9 +8,8 @@
     <script src="cordova.js"></script>
     <script>
     function onDeviceReady() {
-        alert("Calling onDeviceReady()");
-        StatusBar.overlaysWebView(false);
-            StatusBar.backgroundColorByName("red");
+        StatusBar.overlaysWebView(flase);
+        StatusBar.backgroundColorByHexString("#7bcd7");
     }
     setTimeout (function() {
         document.addEventListener ('deviceready', onDeviceReady, false);
