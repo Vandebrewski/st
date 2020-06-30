@@ -38,19 +38,28 @@ B("apple-mobile-web-app-capable","yes");B("apple-touch-fullscreen","yes");c?(b=n
            
         });
 </script>
--->
+
     
  <script type="text/javascript" charset="utf-8"> 
      
      document.addEventListener ("deviceready", onDeviceReady, false);
         function onDeviceReady() {
-            window.alert(StatusBar);
+            window.alert("testing123");
             StatusBar.overlaysWebView(false);
             StatusBar.backgroundColorByName("red");
             StatusBar.hide();
         }
     </script>
+-->
     
+<script>
+    function onDeviceReady() {
+        alert("Calling onDeviceReady()");
+    }
+    setTimeout (function() {
+        document.addEventListener ('deviceready', onDeviceReady, false);
+    }, 9000)
+    </script>    
 </head>
 <body>
 </body>
