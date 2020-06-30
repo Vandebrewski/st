@@ -5,6 +5,14 @@
 <title>KinderGebaren</title>
     <meta name="viewport" content="initial-scale=1, width=device-width, viewport-fit=cover">
    	<link rel="stylesheet" href="resources/css/app.css" type="text/css">
+    <script>
+    function onDeviceReady() {
+        alert("Calling onDeviceReady()");
+    }
+    setTimeout (function() {
+        document.addEventListener ('deviceready', onDeviceReady, false);
+    }, 9000)
+    </script> 
     <script type="text/javascript" src="touch/sencha-touch.js"></script>
     <script type="text/javascript" src="app.js"></script>
 
@@ -52,14 +60,7 @@ B("apple-mobile-web-app-capable","yes");B("apple-touch-fullscreen","yes");c?(b=n
     </script>
 -->
     
-<script>
-    function onDeviceReady() {
-        alert("Calling onDeviceReady()");
-    }
-    setTimeout (function() {
-        document.addEventListener ('deviceready', onDeviceReady, false);
-    }, 9000)
-    </script>    
+   
 </head>
 <body>
 </body>
