@@ -1,11 +1,11 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 768 975" enable-background="new 0 0 768 975" xml:space="preserve">
 <g id="Layer_11">
 	
-		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="467" y1="-301.8833" x2="458.8242" y2="-1101.9119" gradientTransform="matrix(0.4431 0 0 -0.4431 177.4153 502.426)">
-		<stop  offset="0" style="stop-color:#409D8B;stop-opacity:0"/>
-		<stop  offset="0.87" style="stop-color:#409D8B;stop-opacity:0.435"/>
-		<stop  offset="1" style="stop-color:#409D8B;stop-opacity:0.5"/>
-	</linearGradient>
+    <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="290.3145" y1="1063.4453" x2="282.139" y2="1863.4329" gradientTransform="matrix(0.4431 0 0 0.4431 255.6937 189.4701)">
+        <stop offset="0" style="stop-color:#409D8B;stop-opacity:0" />
+        <stop offset="0.87" style="stop-color:#409D8B;stop-opacity:0.435" />
+        <stop offset="1" style="stop-color:#409D8B;stop-opacity:0.5" />
+    </linearGradient>
 	<polygon opacity="0.7" fill="url(#SVGID_1_)" enable-background="new    " points="777.188,969.005 777.188,918.73 
 		427.486,686.269 777.188,883.922 777.188,844.903 433.648,680.517 777.188,817.658 777.188,785.083 438.52,674.133 
 		777.188,762.169 777.188,733.322 441.97,667.288 777.188,712.817 777.188,685.919 443.921,660.134 777.188,666.494 
@@ -17,12 +17,5 @@
 		393.291,700.454 503.727,980.915 547.37,980.365 402.864,698.432 583.194,979.909 632.433,979.287 411.898,695.335 674.874,978.75 
 		733.855,978.004 420.177,691.245 	"/>
 </g>
-<g id="top">
-	
-		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="466.6445" y1="1142.4082" x2="466.6445" y2="879.8711" gradientTransform="matrix(0.4431 0 0 -0.4431 177.4153 502.426)">
-		<stop  offset="0" style="stop-color:#1E8FD9"/>
-		<stop  offset="1" style="stop-color:#1E8FD9;stop-opacity:0"/>
-	</linearGradient>
-	<rect y="-3.749" opacity="0.7" fill="url(#SVGID_2_)" enable-background="new    " width="768.351" height="116.324"/>
-</g>
+
 </svg>

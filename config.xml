@@ -45,7 +45,7 @@
 <!-- onderstaande regel extra toegevoegd -->         
 <plugin name="cordova-plugin-statusbar" />
 <preference name="StatusBarOverlaysWebView" value="false" />
-<preference name="StatusBarBackgroundColor" value="#5bc3c2" />
+<preference name="StatusBarBackgroundColor" value="#78cdc7" />
 <preference name="StatusBarStyle" value="lightcontent" />
 <!-- onderstaande regel extra toegevoegd  
 <preference name="StatusBarDefaultScrollToTop" value="false" />
